@@ -1,0 +1,5 @@
+C:\Files\Projects\Clinkit\Project\Test\WordFinder\WordFinder\bin\Debug\WordFinder.exe.config
+C:\Files\Projects\Clinkit\Project\Test\WordFinder\WordFinder\bin\Debug\WordFinder.exe
+C:\Files\Projects\Clinkit\Project\Test\WordFinder\WordFinder\bin\Debug\WordFinder.pdb
+C:\Files\Projects\Clinkit\Project\Test\WordFinder\WordFinder\obj\Debug\WordFinder.exe
+C:\Files\Projects\Clinkit\Project\Test\WordFinder\WordFinder\obj\Debug\WordFinder.pdb
