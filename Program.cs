@@ -14,6 +14,7 @@ namespace WordFinder
 
         public WordFinder(IEnumerable<string> dictionary)
         {
+			//hello earth - markov	
             //construct the words inputted to an multidimensional array
             _dictionary = dictionary;
         }
